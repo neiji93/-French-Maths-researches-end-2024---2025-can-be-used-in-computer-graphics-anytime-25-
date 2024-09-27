@@ -1,0 +1,34 @@
+
+
+espace vectorielle à 11 dimensions : 
+je vais me servir de h que j'ai utilise dans le projet sur GitHub pour le GRF !
+
+On a :
+h = 
+ici, on a bien le terme égale et non une inégalité car ….
+Donc, la dimension 11 peut se retracter ou peut s'élargir mais seulement sous certaines conditions. Ces conditions sont d etre amené
+à repenser à h mais sous un angle mathématique cette fois car …
+YESSS on est revenu aux maths !!!!!
+Donc h sous forme mathématique représente un nombre premier multiplié par pi. Attention ici, bien que ça ressemble à la physique,
+c est toujours des maths !
+
+On a alors :
+ h = …
+ nombrePremier * Pi = cos( …)    ou nombrePremier * Pi = tan(…..)  ????
+Non c impossible ! On va modifier ça : on  a donc :
+nombrePremier * Pi = cos( …) * tan(…) * …..   dans le cas ou la dimension se retracte !
+Attention, c toujours des maths ! Retenez le bien !!!
+Ici, c encore impossible mathématiquement parlant. Je vais devoir encore modifié !!! Je ne veux pas d une approximation !
+nomrePremier = (cos(..)*tan(…)*….) / Pi
+C est pas possible car le nombre premier ne peut pas etre a virgule !
+Pi = (cos(…)*tan(…)*.....)/nombrePremier
+le terme manquant doit etre un modele car rien ne peut etre fait sans ca !
+C est bizarre, j'ai l'impression d avoir trouvé en physique que les 9 matrices a 11 dimensions chacune était un modele en physque 
+Pourtant j'ai dit que c t des maths !
+On va continuer en math !
+D apres les recherches que j ai fait en computer graphics pour le GRF ou un autre truc, j'ai utilise des modeles locales dans une ou deux
+fonctions. Donc ici comment transformer un modele en modele local sans sortir des math et en paratn de la physique ?
+A finir !
+
+
+
