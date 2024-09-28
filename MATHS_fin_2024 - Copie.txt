@@ -1,0 +1,36 @@
+
+
+espace vectorielle à 11 dimensions (matrix model) et suite séries génératrices associés
+
+ici on va travailler sur les series génératrices assosicées !
+
+Il faut quon trouve déjà comment ecrire une serie generatrice car je ne me rappelle pas de tout !
+on va prendre ce qu on a fait en computer graphics et le transformer en formule de math si necessaire ! Mais heureusement, je n'ai pas
+tout oublié !!!!!
+
+on a:
+on va prendre … c est trop long, je vais prendre le truc le plus rapide a prendre et qui soit le plus judicieux :
+donc : E*U^2 <= E * R^2 * I^2 !!!!! ouiii, c est bon ! ca ria car c était le raisonnement au debut dune recherche !
+Mais il ne puvait pas etre utilise longtemps !! merde on revient a la physique ! Mais dans le doc précédant, on a montre
+que meme si ca semble de la physique, ce sont des maths dans le cas et seulement dans le cas du doc précédant !
+Comment le retranscrire ici ??? En utilisant ce qu'on a vu de supercomputer  cells programming peut etre !??? NONNNN !
+On va créer un nouvelle formules ou une nouvelle formule ! Non ! Non ! Ca va etre plus facile d inventer une anti formulre si on arrive
+a definir ce qu est une anti formule en math ! On peut essayer avec ln et exp !! Oui ! Oui !
+on a pr ce sous cas : ln(2480*x) = exp(20*y) !!!! YESSSS ! Je sais ce que c est ! C est une approximation de tout ce que j'ai  vu
+en math de ma vie ! A peu pres ca ! On va donc continuer ! J ai inverser les termes exp et ln dans l expressopn car avant j avais trouve
+exp(2480*x) = ln(20*y)   je crois mais ce n est pas du tout grave !!! Continuons !
+
+Alors c est quoi une serie generatrice avec les deux info suivante :
+1/ E*U^2 <= E * R^2 * I^2 
+2/ ln(2480*x) = exp(20*y)
+
+Actuellement, sans continuer, on a une approximation des series génératrices qui peuvent etre utilisees par exemple en computer graphics
+pour determiner si une texture est apte a etre pris en compte sans parcourir toute la texture ou encore si pour accroitre le nombre
+de textures que l on peut parcourir en plus grands nombre pour avoir le maximum de texture que l on peut prendre en compte pour chacun.
+Tout cela peut servir pour le SVBRDF et certainement pour le BTF !!! Oui, on peut peut etre voir la fin du BTF !
+Mais je ne sais pas pour le BSSRDF et le GRF !
+
+
+
+
+
