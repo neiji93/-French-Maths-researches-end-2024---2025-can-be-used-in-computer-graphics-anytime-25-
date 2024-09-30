@@ -8,3 +8,4 @@ Théroei des nombres et congruences sur un espace de hilbert : conservation des
 propritétés automorphes (helped by my nephew Edis Louis Rasulov - may be just a high school program)
 
 Intervalles continues dans un sur espace v myope et équations topologiques a 11 dimensions ! will ask my nephew arda dilaver tosyali to help me). this one is interesting. plus, it will help for crypto currency 
+whaoouuuuh cool ! using blockchain technology to get GRF ! then this is possible nowadays !
