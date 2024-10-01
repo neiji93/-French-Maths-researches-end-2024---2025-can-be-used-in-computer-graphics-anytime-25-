@@ -1,0 +1,9 @@
+
+
+
+Intervalles continues dans un sur espace v myope et équations topologiques a 11 dimensions
+
+équations topologiques à 11 dimensions.
+Il faudrait ecrire une formule meme de physique a partir de rien d abord !
+Test 1 :     fx,y, z) = exp( Pi* (differential / differential)) ….
+Déjà, il faut annuler les différentielles suivantes apres la derniere expression que je viens d ecrire !
