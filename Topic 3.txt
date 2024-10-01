@@ -7,3 +7,39 @@ Intervalles continues dans un sur espace v myope et équations topologiques a 11
 Il faudrait ecrire une formule meme de physique a partir de rien d abord !
 Test 1 :     fx,y, z) = exp( Pi* (differential / differential)) ….
 Déjà, il faut annuler les différentielles suivantes apres la derniere expression que je viens d ecrire !
+
+
+...
+
+
+
+Intervalles continues dans un sur espace v myope et équations topologiques a 11 dimensions
+
+équations topologiques à 11 dimensions.
+Il faudrait ecrire une formule meme de physique a partir de rien d abord !
+Test 1 :     fx,y, z) = exp( Pi* (differential / differential)) ….
+Déjà, il faut annuler les différentielles suivantes apres la derniere expression que je viens d ecrire !
+
+
+
+
+
+peut on avoir un delegate de   fx,y, z) = exp( Pi* (differential / differential)) * exp(x^11)  ??
+Peut on prendre ca comme une equation qui decrit un probleme math ?   Peut etre les tuiles du scientifique grec !!!!
+   C alors un pb combinatoire !
+ On a (differentielle/differentiall) ce qui ressemble au BSDF dont on ne connait pas a lheure actuelle toutes les propritétés 
+de cette fonction. Donc, comment modeliser les futurs propriétés math que lon ne connait pas aujourd'hui ?
+Avec un modele ? Esssayons :
+on a: un modele de donnees combinatoires distribué (comme pour pi)
+Peut on prendre un isomorphisme entre le modele distribue de pi et le BSDF ?
+Dans les reseaux de neuronnes, les couches cachées peuvent acceuillir des fonctions isomoprhes au vrai probleme et qui
+peuvent donc a la fin amené le reseau complet a etre une approximation comme resultat du probleme !
+Jai pas envie d utiliser l'ia !
+
+Donc pour pi, on pourra prendre un tout nouveau truc !!!!! Essayons le titre de notre truc de depart : intervalles continues
+sur un sur espace v myope !
+On va quand meme rajouter un autre truc : notre prisme meme si c de la physique !
+Pi dans le probleme des tuiles du scientifique grec peut etre utilise avec pi si on utilise le prisme de github que j'ia fait !
+
+
+
