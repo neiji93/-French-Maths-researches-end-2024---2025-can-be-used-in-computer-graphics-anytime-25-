@@ -14,3 +14,6 @@ Equations topologiques à 11 dimensions et modèles de dimensions supérieurs à
 securing medical datas
 
 formes automorohes finie et corps... ?? de dimension finie (nous navons pas besoin dinfinie grace a ma reconnaissance zn tant suartiste !)
+
+In order ro help my nephews and my niece come back to mathematical topics deeper than before, I must help them being artists.
+This will surely help ! Great !
