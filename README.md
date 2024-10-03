@@ -13,4 +13,4 @@ whaoouuuuh cool ! using blockchain technology to get GRF ! then this is possible
 Equations topologiques à 11 dimensions et modèles de dimensions supérieurs à exp(11)
 securing medical datas
 
-formes automorohes finie et corps... ?? de dimension ginie (nous navons pas besoin dinfinie grace a ma reconnaissance zn tant suartiste !)
+formes automorohes finie et corps... ?? de dimension finie (nous navons pas besoin dinfinie grace a ma reconnaissance zn tant suartiste !)
