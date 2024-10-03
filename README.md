@@ -11,3 +11,4 @@ Intervalles continues dans un sur espace v myope et équations topologiques a 11
 whaoouuuuh cool ! using blockchain technology to get GRF ! then this is possible nowadays !
 
 Equations topologiques à 11 dimensions et modèles de dimensions supérieurs à exp(11)
+securing medical datas
