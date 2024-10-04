@@ -17,3 +17,7 @@ formes automorohes finie et corps... ?? de dimension finie (nous navons pas beso
 
 In order ro help my nephews and my niece come back to mathematical topics deeper than before, I must help them being artists.
 This will surely help ! Great !
+
+
+Données médicales (à partir en partie de mes recherches sur des outils de chirurgie de tout le corps ) :
+injection, injection double et variables latentes de modèles de simulation.  (on dirait de l IA).
