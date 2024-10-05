@@ -21,3 +21,9 @@ This will surely help ! Great !
 
 Données médicales (à partir en partie de mes recherches sur des outils de chirurgie de tout le corps ) :
 injection, injection double et variables latentes de modèles de simulation.  (on dirait de l IA).
+
+
+----------------------- PHYSICS ----------------------------
+ 1/ something with exp(11) because log(x) was too much used and because exp(11^2) = cos x + i sin(x).
+ This formulas is interesting but I have to follow my intuition and share with you why I chosed it !
+ --> will be used for champo alternative implement OS.
