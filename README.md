@@ -27,3 +27,10 @@ injection, injection double et variables latentes de modèles de simulation.  (o
  1/ something with exp(11) because log(x) was too much used and because exp(11^2) = cos x + i sin(x).
  This formulas is interesting but I have to follow my intuition and share with you why I chosed it !
  --> will be used for champo alternative implement OS.
+
+
+ 2/ (4 dimension - (4*1*2*1*x)*2 -> this was a physical event dreamed where I was trapped)
+ 16x non simulation model that preserve muted
+ planck's constant. Usefull for rendering encoded signals (let's see other repositories and texttEditor1.h). x can be c = 3*10^8.
+ But we have to modify c. Then, let's talk about c = 250 (like 250 volts). As stars can be described as models,
+ we can have mixed models if we use y=16 as a constant later. It seems heat trabsfer ! This is perfectly ok for LCD screen rendering.
