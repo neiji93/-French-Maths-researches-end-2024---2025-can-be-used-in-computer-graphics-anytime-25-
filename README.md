@@ -34,3 +34,4 @@ injection, injection double et variables latentes de modèles de simulation.  (o
  planck's constant. Usefull for rendering encoded signals (let's see other repositories and texttEditor1.h). x can be c = 3*10^8.
  But we have to modify c. Then, let's talk about c = 250 (like 250 volts). As stars can be described as models,
  we can have mixed models if we use y=16 as a constant later. It seems heat trabsfer ! This is perfectly ok for LCD screen rendering.
+ Let's propagate the signals between several different ceramics chips !
