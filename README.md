@@ -35,3 +35,9 @@ injection, injection double et variables latentes de modèles de simulation.  (o
  But we have to modify c. Then, let's talk about c = 250 (like 250 volts). As stars can be described as models,
  we can have mixed models if we use y=16 as a constant later. It seems heat trabsfer ! This is perfectly ok for LCD screen rendering.
  Let's propagate the signals between several different ceramics chips ! Don't forget to prevent crashing chips by checking exponent62 !
+
+
+ ------ APPLIEd SCIENCES-----
+ ----CGI-----
+
+ 1/ i want to use formal power series for a and one of the elements abive to continue cgi softwares. there mist be a way. even physics or maths. why can we use maths ? because can use exp(3x) three times which means that this .... i will complete it later. there must be a way.
