@@ -37,6 +37,11 @@ injection, injection double et variables latentes de modèles de simulation.  (o
  Let's propagate the signals between several different ceramics chips ! Don't forget to prevent crashing chips by checking exponent62 !
 
 
+
+3/ Diffeomorphism to homeomorphism that approximate 3 forces acting in a closed space (acting on each others).
+
+
+
  ------ APPLIEd SCIENCES-----
  ----CGI-----
 
