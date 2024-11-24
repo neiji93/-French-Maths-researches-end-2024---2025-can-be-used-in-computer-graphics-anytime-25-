@@ -41,6 +41,17 @@ injection, injection double et variables latentes de modèles de simulation.  (o
 3/ Diffeomorphism to homeomorphism that approximate 3 forces acting in a closed space (acting on each others).
 
 
+----------------Physics for video games------------------------------
+
+I used exp(0.6) in a project because I didn't use the 6 number in maths too much times. It is smart.. On the hand, I previously
+used exp(3x)) in another project (I don't remeber where I used it sincerely). Then, I asked myself if There were ways to use
+them in Runge Khutta 4 approximate method. It ended with google books. Here is one link but other links were corrupted in my pc but
+I remember coupling and recusive keyowrds. So here is one link :
+https://www.google.fr/books/edition/Topics_In_Nonlinear_Dynamics_Application/YP_sCgAAQBAJ?hl=fr&gbpv=1&dq=recursive+physics+collision&pg=PA43&printsec=frontcover
+
+
+
+
 
  ------ APPLIEd SCIENCES-----
  ----CGI-----
