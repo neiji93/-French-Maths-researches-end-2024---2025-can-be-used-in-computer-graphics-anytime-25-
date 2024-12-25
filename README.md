@@ -57,3 +57,7 @@ https://www.google.fr/books/edition/Topics_In_Nonlinear_Dynamics_Application/YP_
  ----CGI-----
 
  1/ i want to use formal power series for a and one of the elements abive to continue cgi softwares. there mist be a way. even physics or maths. why can we use maths ? because can use exp(3x) three times which means that this .... i will complete it later. there must be a way.
+
+ -------
+
+ using dirac delta for higher orders to prevent money cash to be infinite for crypto currency project. as im an artist, it leans using formal series again.
