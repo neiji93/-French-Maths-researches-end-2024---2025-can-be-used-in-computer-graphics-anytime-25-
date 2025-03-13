@@ -63,6 +63,9 @@ https://www.google.fr/books/edition/Topics_In_Nonlinear_Dynamics_Application/YP_
  using dirac delta for higher orders to prevent money cash to be infinite for crypto currency project. as im an artist, it leans using formal series again.
 
 
+ not tru'cated classes of equivalence in morohisms suited for self inner dimensions.
+
+
 ----mzthe again----
 extension de corps, peut etre en utilisant l algebre de clifford, pour les comportements ottoseconds !
 peut etre utilise dans les jeux videos notament avec mon projet fuzzy a'd fair datas. on pourra peut etre utiliser les rrvaux de anne l huilier qui a recu un prox nobel !
