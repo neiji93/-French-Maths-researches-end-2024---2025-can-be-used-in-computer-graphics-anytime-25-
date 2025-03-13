@@ -66,3 +66,6 @@ https://www.google.fr/books/edition/Topics_In_Nonlinear_Dynamics_Application/YP_
 ----mzthe again----
 extension de corps, peut etre en utilisant l algebre de clifford, pour les comportements ottoseconds !
 peut etre utilise dans les jeux videos notament avec mon projet fuzzy a'd fair datas. on pourra peut etre utiliser les rrvaux de anne l huilier qui a recu un prox nobel !
+
+phsyics again
+sinusoidal behaviour of small limits in a reversi'g system. integrals must match better resultd because....
