@@ -1,4 +1,4 @@
-# Maths-researches-end-2024---2025
+ni# Maths-researches-end-2024---2025
 May be completely stupid but I have to do it myself
 
 "Formes automorphes continues sur un espace vectorielle à 11 dimensions (matrix model) et
@@ -72,3 +72,7 @@ peut etre utilise dans les jeux videos notament avec mon projet fuzzy a'd fair d
 
 phsyics again
 sinusoidal behaviour of small limits in a reversi'g system. integrals must match better resultd because....
+
+
+maths next
+maximum de vfaisselblance ded varietes zbeliennes lies aux diffeomorohismes et aux bornes inferieurs des fonctions de haskel.
