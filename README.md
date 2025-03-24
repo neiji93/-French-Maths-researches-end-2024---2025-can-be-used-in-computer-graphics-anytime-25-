@@ -76,3 +76,7 @@ sinusoidal behaviour of small limits in a reversi'g system. integrals must match
 
 maths next
 maximum de vfaisselblance ded varietes zbeliennes lies aux diffeomorohismes et aux bornes inferieurs des fonctions de haskel.
+
+physics
+divergence in homeomorphism groups that leads to oscilate in z calabi yau form reality.  tri helices errors as forces in a calabi yaw maximum dilensions (homeopmorphism)
+it seems that the result will be clamped to abelian groupd..
