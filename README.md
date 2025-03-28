@@ -80,3 +80,6 @@ maximum de vfaisselblance ded varietes zbeliennes lies aux diffeomorohismes et a
 physics
 divergence in homeomorphism groups that leads to oscilate in z calabi yau form reality.  tri helices errors as forces in a calabi yaw maximum dilensions (homeopmorphism)
 it seems that the result will be clamped to abelian groupd..
+
+
+miceo endomorphisms abelian corpuses to select soins that refer to an equilibrium solid torus. finite classes of nano ottoseconds tools of mathematics.
