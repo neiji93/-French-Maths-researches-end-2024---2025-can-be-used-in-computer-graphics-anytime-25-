@@ -83,3 +83,5 @@ it seems that the result will be clamped to abelian groupd..
 
 
 miceo endomorphisms abelian corpuses to select soins that refer to an equilibrium solid torus. finite classes of nano ottoseconds tools of mathematics.
+
+topological equations for high order predictive models of stationnary heat systems.
