@@ -86,7 +86,8 @@ miceo endomorphisms abelian corpuses to select soins that refer to an equilibriu
 
 topological equations for high order predictive models of stationnary heat systems.
 
-exactly 20 011 limited isomorphisms obstrucation on several beams models.
+exactly 20 011 limited isomorphisms obstrucation on several beams models. https://www.google.com/search?q=thousands+topological+relaxations&client=ms-android-xiaomi-terr1-rso2&sca_esv=0997bde18d0af1f5&udm=36&sxsrf=AE3TifNyqNw44zaE4rMYSGXnEu6Bi7p2Kg%3A1749535350771&ei=dspHaP7mLs6TkdUP5Zeb6As&oq=thousands+topological+relaxations&gs_lp=EhNtb2JpbGUtZ3dzLW1vZGVsZXNzIiF0aG91c2FuZHMgdG9wb2xvZ2ljYWwgcmVsYXhhdGlvbnMyCBAhGKABGMMESO2zAVD7GVjjsQFwDngAkAEAmAGcAaABwRqqAQQ4LjIyuAEDyAEA-AEBmAIkoAKpFsICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAgUQABjvBcICCBAAGIAEGKIEwgIKECEYoAEYwwQYCpgDAIgGAZAGBZIHBTE1LjIxoAfdYLIHBDEuMjG4B8QVwgcLMC4xMi4xNS41LjTIB4wC&sclient=mobile-gws-modeless
+
 
 models limited by cohomology and abelian varietes. no quotient groups to the current state of art.
 
