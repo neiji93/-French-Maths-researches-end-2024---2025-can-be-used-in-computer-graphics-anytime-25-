@@ -92,3 +92,6 @@ exactly 20 011 limited isomorphisms obstrucation on several beams models. https:
 models limited by cohomology and abelian varietes. no quotient groups to the current state of art.
 
 state of the art of lendra models and obstrucations of 11 dimensions isomorphisms.
+
+physics
+fonction donde a valeur des mathmeatiques experimentales pour des algebres en combinaisons avec les jeuxa champs moyens (nuclear pulse bomb).
